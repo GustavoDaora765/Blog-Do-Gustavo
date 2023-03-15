@@ -1,0 +1,12 @@
+.Musica-h{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.Musica-h i{
+    float: right;
+}
+.music-t span{
+    color: gold;
+}
